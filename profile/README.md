@@ -2,5 +2,5 @@
 
 # Linux
 - Bash
-  - [Tutorial](https://github.com/yrf105-notes/Bash-tutorial)
+  - [Tutorial](https://github.com/yrf105-notes/bash-tutorial)
 - 
